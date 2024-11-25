@@ -1,21 +1,62 @@
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=5000&color=&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Mehdi+Teisseire" alt="Typing SVG" /></a>
 
-# Project Title
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=1000&lines=A+passionate+software+and+backend+developer+from+France" alt="Typing SVG" /></a>
 
-A brief description of what this project does and who it's for
+<img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/sharif-islam96403/sharif-islam96403/blob/main/CatCode.gif">
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharif-islam96403&label=Profile%20views&base=1230&abbreviated=true&color=252da1&style=for-the-badge" alt="sharif-islam96403" /> </p>
+  <h3> Developer || Self-Taught Developer || IT bachelor @La plateforme</h3>
+  
+<h3 align="left">Connect with me:</h3>
+
+<a href="https://www.linkedin.com/in/mehdi-teisseire-a3aa0b334/"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"> Teisseire Mehdi</a>
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mehdi.teisseire@laplateforme.io"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"> mehdi.teisseire@laplateforme.io</a>
+
+<a href><img align="center" width="25px" src="https://img.icons8.com/pulsar-color/48/internet-browser.png"> Portfolio</a>
+
+<hr>
+
+## 🚀💻 Technologies & Tools
+
+### <u> Currently im learning </u>
+
+<br>
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+&nbsp;
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+</span>
+&nbsp;
+
+<br>
+
+### <u> Version Control and Tools: </u>
+
+<br>
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+&nbsp;
+
+<br>
+
+### <u> Operating Systems and Others: </u>
+
+<br>
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+&nbsp;
+<br>
 
 
-## 🚀 About Me
-I'm a full stack developer...
 
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-
-
-## 🛠 Skills
-Javascript, HTML, CSS...
+------
 
 
 
