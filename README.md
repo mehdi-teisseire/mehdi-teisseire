@@ -3,17 +3,17 @@
 </p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=5000&color=&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Github" alt="Typing SVG" /></a>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=1000&lines=I'm+Mehdi+a+passionate+software+and+backend+developer+from+France" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=1000&lines=I'm+Mehdi,+a+passionate+software+and+backend+developer+from+France." alt="Typing SVG" /></a>
   
 
-  <h3 align="center"> Developer || Self-Taught Developer || IT bachelor <a href="https://laplateforme.io/">@Laplateforme</a>  </h3>
+  <h3 align="center"> Developer || Self-Taught Developer || IT bachelor <a href="https://laplateforme.io/">@LaPlateforme</a>  </h3>
   
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/mehdi-teisseire-a3aa0b334/"> <img align="center" width="25px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"> 
  Teisseire Mehdi</a>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mehdi.teisseire@laplateforme.io"> <img align="center" width="25px" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000">mehdi.teisseire@laplateforme.io</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mehdi.teisseire@laplateforme.io"> <img align="center" width="25px" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"> mehdi.teisseire@laplateforme.io</a>
 
 <a href> <img align="center" width="25px" src="https://img.icons8.com/pulsar-color/48/internet-browser.png">  Portfolio</a>
 
@@ -44,7 +44,6 @@
 &nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 &nbsp;
-<br>
 
 
 
