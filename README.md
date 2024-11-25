@@ -8,7 +8,7 @@
 
   <h3 align="center"> Developer 🔹 Self-Taught Developer 🔹 IT bachelor <a href="https://laplateforme.io/">@LaPlateforme</a>  </h3>
   
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📬 Connect with me:</h3>
 
 <a href>![Static Badge](https://img.shields.io/badge/Portfolio-967bb6?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAABrUlEQVR4nO3Zv6tPYRwH8A9xUbKQkA1lwUCJVZEyGGSzUP4ABjLJxK4MBiWjSTZJBgM2g2yipPxaCLeu%2B9KTr9yue85x3fs953lO57Wez%2FB5f7%2Bd87xPJ2IwGAzq4D6eYlOUzB8vsTV6ECR5i51RIn%2F7hP3RgyDJFxyMkqg2iWPRgyDJFE5FCTSbxtnoQZDfLkfOzM9VLI0eBEluYXnkxv%2B5g1XRgyDJA6yJXFiYVDbXRQ%2BCJM%2BxuQ9B8mjOFk9qzrv6EKTb5mzxddOcjcdk683Z%2BEy12pyN13RrzVk7LvQlyPuSgnzFKzzGXdzAFZzB7pyDpJv5MLZg9dgXbbLAf%2BFc5EKzHzXX3mBF5EDzwXYcT2pmTkYOVPuOo6OZEzVzL7J4jze3zzgwY2Zi1G6rHMkxyEfsnWPuYk2Qh91sP8OshdKvvqNibj2%2B1YTZF10yj7c83KwJcru9rau%2FWKWn0sZ%2FmN3TcEBui1LgUU2Ya1EKv86VKuke2hAlwDK8rglzKUqB8zVBPqRzJ0qAtaPaXnXST0QpcH1WgGc4jZVREmzHO9zDISzpeqfBIKr9BC6bE85p69PcAAAAAElFTkSuQmCC&logoColor=%23ffffff)</a>
 
