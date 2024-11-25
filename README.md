@@ -10,18 +10,18 @@
   
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://www.linkedin.com/in/mehdi-teisseire-a3aa0b334/"> <img align="center" width="25px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"> 
- Teisseire Mehdi</a>
+<a href>![Static Badge](https://img.shields.io/badge/Portfolio-967bb6?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAABrUlEQVR4nO3Zv6tPYRwH8A9xUbKQkA1lwUCJVZEyGGSzUP4ABjLJxK4MBiWjSTZJBgM2g2yipPxaCLeu%2B9KTr9yue85x3fs953lO57Wez%2FB5f7%2Bd87xPJ2IwGAzq4D6eYlOUzB8vsTV6ECR5i51RIn%2F7hP3RgyDJFxyMkqg2iWPRgyDJFE5FCTSbxtnoQZDfLkfOzM9VLI0eBEluYXnkxv%2B5g1XRgyDJA6yJXFiYVDbXRQ%2BCJM%2BxuQ9B8mjOFk9qzrv6EKTb5mzxddOcjcdk683Z%2BEy12pyN13RrzVk7LvQlyPuSgnzFKzzGXdzAFZzB7pyDpJv5MLZg9dgXbbLAf%2BFc5EKzHzXX3mBF5EDzwXYcT2pmTkYOVPuOo6OZEzVzL7J4jze3zzgwY2Zi1G6rHMkxyEfsnWPuYk2Qh91sP8OshdKvvqNibj2%2B1YTZF10yj7c83KwJcru9rau%2FWKWn0sZ%2FmN3TcEBui1LgUU2Ya1EKv86VKuke2hAlwDK8rglzKUqB8zVBPqRzJ0qAtaPaXnXST0QpcH1WgGc4jZVREmzHO9zDISzpeqfBIKr9BC6bE85p69PcAAAAAElFTkSuQmCC&logoColor=%23ffffff)</a>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mehdi.teisseire@laplateforme.io"> <img align="center" width="25px" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"> mehdi.teisseire@laplateforme.io</a>
+<a href="https://www.linkedin.com/in/mehdi-teisseire-a3aa0b334/">![Static Badge](https://img.shields.io/badge/Mehdi_Teisseire-0A66C2?style=flat&logo=linkedin&logoColor=%23ffffff)</a>
 
-<a href> <img align="center" width="25px" src="https://img.icons8.com/pulsar-color/48/internet-browser.png">  Portfolio</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mehdi.teisseire@laplateforme.io">![Static Badge](https://img.shields.io/badge/Mehdi_Teisseire-EA4335?style=flat&logo=gmail&logoColor=%23ffffff)</a>
+
 
 <hr>
 
 ## 🚀💻 Technologies & Tools
 
-### <u> Currently i'm learning </u>
+### <u> Currently i'm learning: </u>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 &nbsp;
@@ -47,7 +47,6 @@
 
 
 
-------
 
 
 
