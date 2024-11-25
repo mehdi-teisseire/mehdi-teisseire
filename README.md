@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=5000&color=&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Github" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=1000&lines=Im+Mehdi+a+passionate+software+and+back+end+developer+from+France" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=1000&lines=Im+Mehdi+a+passionate+software+and+backend+developer+from+France" alt="Typing SVG" /></a>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehdi-teisseire&label=Profile%20views&base=1230&abbreviated=true&color=252da1&style=for-the-badge" alt="sharif-islam96403" /> </p>
   <h3> Developer || Self-Taught Developer || IT bachelor @La plateforme</h3>
