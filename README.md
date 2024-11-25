@@ -1,9 +1,10 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=5000&color=&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Github" alt="Typing SVG" /></a>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mehdi-teisseire&label=Profile%20views&base=1230&abbreviated=true&color=252da1&style=for-the-badge" alt="sharif-islam96403" /> </p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=5000&color=&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Github" alt="Typing SVG" /></a>
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=1000&lines=Im+Mehdi+a+passionate+software+and+backend+developer+from+France" alt="Typing SVG" /></a>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehdi-teisseire&label=Profile%20views&base=1230&abbreviated=true&color=252da1&style=for-the-badge" alt="sharif-islam96403" /> </p>
-  <h3> Developer || Self-Taught Developer || IT bachelor @La plateforme</h3>
+
+  <h3 align="center"> Developer || Self-Taught Developer || IT bachelor @La plateforme</h3>
   
 <h3 align="left">Connect with me:</h3>
 
@@ -19,8 +20,6 @@
 
 ### <u> Currently im learning </u>
 
-<br>
-
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 &nbsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -29,22 +28,14 @@
 </span>
 &nbsp;
 
-<br>
-
 ### <u> Version Control and Tools: </u>
-
-<br>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 &nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 &nbsp;
 
-<br>
-
 ### <u> Operating Systems and Others: </u>
-
-<br>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 &nbsp;
