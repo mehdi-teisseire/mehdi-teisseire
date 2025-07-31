@@ -1,12 +1,30 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=mehdi-teisseire&label=Profile%20views&base=1230&abbreviated=true&color=252da1&style=for-the-badge" alt="mehdi-teisseire view stats" /> 
+<p align="right">
+  <img
+    src="https://komarev.com/ghpvc/?username=mehdi-teisseire&label=Profile%20views&base=1230&abbreviated=true&color=252da1&style=for-the-badge"
+    alt="mehdi-teisseire view stats"
+  />
+</p>
 
-</p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=5000&color=&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Github" alt="Typing SVG" /></a>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=5000&color=&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Github"
+    alt="Welcome typing SVG"
+  />
+</p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=1000&lines=I'm+Mehdi,+a+passionate+software+and+backend+developer+from+France."
+      alt="Introduction typing SVG"
+    />
+  </a>
+</p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=1000&lines=I'm+Mehdi,+a+passionate+software+and+backend+developer+from+France." alt="Typing SVG" /></a>
-  
-
-  <h3 align="center"> Developer 🔹 Self-Taught Developer 🔹 IT bachelor <a href="https://laplateforme.io/">@LaPlateforme</a>  </h3>
+<h3 align="center">
+  Developer 🔹 Self-Taught Developer 🔹 IT bachelor
+  <a href="https://laplateforme.io/">@LaPlateforme</a>
+</h3>
   
 ## 📬 Connect with me:
 
