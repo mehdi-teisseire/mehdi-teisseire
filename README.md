@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=1000&lines=I'm+Mehdi,+a+passionate+software+and+backend+developer+from+France."
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=1000&lines=I'm+Mehdi,+a+passionate+software+developer+from+France."
       alt="Introduction typing SVG"
     />
   </a>
